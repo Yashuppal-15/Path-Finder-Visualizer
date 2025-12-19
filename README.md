@@ -100,7 +100,6 @@ It does **not** require Node.js, npm, or Express.
 
 If you prefer running it on localhost:
 
-```bash
 python -m http.server
 Then open your browser and visit: http://localhost:8000
 
